@@ -1,6 +1,6 @@
 # BlueSky Brute Force
 
-![BlueSky](https://github.com/RozhakXD/BlueSky/assets/65714340/5a0b708e-ccaf-4049-9d14-739042fe6ac9)
+![BlueSky](https://github.com/redhathacker67/BlueSky/assets/65714340/5a0b708e-ccaf-4049-9d14-739042fe6ac9)
 
 ## Description
 BlueSky is an advanced Python-based brute force program specifically designed for educational purposes only. This powerful tool allows users to perform various actions on the BlueSky platform.
@@ -15,7 +15,7 @@ By using the BlueSky brute force tool, users can gain a deeper understanding of 
   ```
   $ pkg update -y && pkg upgrade -y
   $ pkg install git python-pip
-  $ git clone https://github.com/RozhakXD/BlueSky
+  $ git clone https://github.com/redhathacker67/BlueSky
   $ cd "BlueSky"
   $ python -m pip install -r requirements.txt
   $ chmod +x Run
@@ -61,7 +61,7 @@ Note: **Remember to use strong and unique passwords to avoid compromising your a
 - If you encounter issues with dumping IDs, you can make sure the target has a lot of followers/following and make sure the username is correct!
 
 ## Screenshot
-![Twitter](https://github.com/RozhakXD/BlueSky/assets/65714340/bee022e3-8696-49f8-9c08-903321d7af98)
+![Twitter](https://github.com/redhathacker67/BlueSky/assets/65714340/bee022e3-8696-49f8-9c08-903321d7af98)
 
 ## Disclaimer
 This tool is for educational purposes only and should not be used to harm or exploit others. Using this tool to brute force or hack into someone's account without their consent is illegal and unethical. Be cautious when using this tool, as it may cause harm to your own account or others. The author of this tool is not responsible for any misuse or harm caused by this tool. Use at your own risk.
